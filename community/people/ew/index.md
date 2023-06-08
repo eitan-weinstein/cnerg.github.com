@@ -16,7 +16,7 @@ services:
  Eitan Weinstein is an undergraduate student at the University of Pennsylvania
  studying physics with a minor in energy and sustainability engineering, set to
  graduate in 2025. Eitan is working as an undergraduate intern with CNERG on 
- neutronics analysis software for the parametric stellerator. Originally from Minneapolis,
+ neutronics analysis software for the parametric stellarator. Originally from Minneapolis,
  he loves biking, hiking, and pretty much anything outdoors and is excited to experience
  the nature that Madison has to offer.
 
